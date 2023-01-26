@@ -1,0 +1,15 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Modulo2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firsproject"
+  ],
+  "author": "Antony Rebolledo",
+  "license": "ISC"
+}
